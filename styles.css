@@ -1,6 +1,7 @@
 body {
     font-family: "Inter", sans-serif;
     margin: 0;
+    background-color: #1F2937; /* .bottom ile aynı renk */
 }
 
 #input-el {
